@@ -1,0 +1,21 @@
+{
+  "name": "Site Monitoring Chart",
+  "short_name": "SiteMonitor",
+  "description": "A site monitoring chart that tracks temperature, humidity, wind speed, and more.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }
+  ]
+}
